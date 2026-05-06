@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <b>Calculadora moderna para Windows inspirada en la calculadora clásica de Microsoft.</b>
+  <b>Calculadora moderna para Windows inspirada en la calculadora clásica, aqui lo que hacemos es intentar hacer una mejor calculadora.</b>
 </p>
 
 <p align="center">
-  Oscura · Rápida · Portable · Profesional
+  WormZ · Oscura · Rápida · Portable · Profesional
 </p>
 
 ---
@@ -93,10 +93,9 @@ También disponible en formato portable sin instalación.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Lenguaje y librerias..
 
-- C#
-- .NET 8
+- C# .NET 8
 - Windows Forms
 - Inno Setup
 
@@ -106,10 +105,10 @@ También disponible en formato portable sin instalación.
 
 **FsDk — Jose Antonio Giménez Cayuela**
 
-Proyecto desarrollado como una alternativa moderna y elegante a las calculadoras clásicas de Windows.
+Proyecto desarrollado como una alternativa moderna y mejorada a las calculadoras clásicas de Windows.
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto se distribuye únicamente con fines educativos y personales.
+Este proyecto se distribuye únicamente con fines educativos y personales, por el momento vamos a decir ( esto es gratis y lo ago solo por diversión y terminar el aprendizaje en C#.
