@@ -60,13 +60,13 @@ W-Calculadora utiliza un diseño oscuro inspirado en Windows 11 con:
 ## 📸 Capturas
 
 ### Modo estándar
-![Captura estándar](imagenes/captura1.png)
+![Captura estándar](imagenes/capturaw1.png)
 
 ### Modo científico
-![Captura científica](imagenes/captura2.png)
+![Captura científica](imagenes/capturaw2.png)
 
 ### Modo programador
-![Captura programador](imagenes/captura3.png)
+![Captura programador](imagenes/capturaw3.png)
 
 ---
 
