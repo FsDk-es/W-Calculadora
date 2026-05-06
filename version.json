@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "installer": "https://github.com/FsDk-es/W-Calculadora/raw/main/W-Calculadora_Setup_v1.0.exe",
-  "notes": "Se consigue añadir soporte de actualizaciones a W-Calculadora y se lanza como aplicacion publica."
+  "version": "1.1",
+  "installer": "https://github.com/FsDk-es/W-Calculadora/raw/main/W-Calculadora_Setup_v1.1.exe",
+  "notes": "en esta version hemos mejorado la calculadora cientifica y corregido 2 fallos de la misma."
 }
